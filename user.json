@@ -1,4 +1,5 @@
 {
-  "allow": "ui49","sui827_",
+  "allow": "ui49",
+  "allow": "sui827_"
   "disallow": "64tb"
 }
